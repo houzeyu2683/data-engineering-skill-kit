@@ -17,6 +17,6 @@ setuptools.setup(
     #     "Bug Tracker": "https://github.com/houzeyu2683/desk/issues"
     # },
     # license='MIT',
-    packages=['desk', 'data'],
+    packages=['data'],
     install_requires=['pandas']
 )
