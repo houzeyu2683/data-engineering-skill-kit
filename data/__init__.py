@@ -1,3 +1,3 @@
 
-from .data import engine
+from .table import engine
 
