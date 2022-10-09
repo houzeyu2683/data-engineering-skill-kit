@@ -2,7 +2,7 @@
 import pandas
 import os
 
-class table:
+class engine:
 
     def __init__(self, folder):
 
