@@ -13,9 +13,9 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/houzeyu2683/desk',
-    # project_urls = {
-    #     "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
-    # },
+    project_urls = {
+        "Bug Tracker": "https://github.com/houzeyu2683/desk/issues"
+    },
     license='MIT',
     packages=['desk'],
     install_requires=['pandas']
